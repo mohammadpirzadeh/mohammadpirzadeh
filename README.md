@@ -1,4 +1,5 @@
-### Hi to EVERYONE <img src="./greeting.svg" alt="Hi 👋, I'm mOHAMMAD"> 
+### Hi to EVERYONE 
+<img src="./greeting.svg" alt="Hi 👋, I'm mOHAMMAD"> </img>
 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif"> </img>
 
 <div align="center">
