@@ -2,7 +2,11 @@
 
 
 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif"> </img>
-<div background-color="red"> hello </div>
+
+<p style="color:blue;font-size:46px;">
+     MP, <strong>strong</strong> paragraph
+    </p>
+
 <div align="center">
 
 <a href="https://github.com/0xabdulkhalid/">
